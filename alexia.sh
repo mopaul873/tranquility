@@ -27,3 +27,5 @@ df -h
 echo "print all the command used in the  current session"
 sleep 3
 history
+Just getting into the habit of typing during that training and really hoping to improve in that department in a few months to avoid looking sluggish.
+I am so proud of the Lord and be blessed to be his beloved son that he never let down
